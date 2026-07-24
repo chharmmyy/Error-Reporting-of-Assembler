@@ -1,0 +1,11 @@
+    Input Assembly Program 
+            ↓
+    Tokenization
+            ↓
+    Validation (Label, Opcode, Operand)
+            ↓
+    Error Logging
+            ↓
+    Final Error Report & Symbol Table 
+
+    
